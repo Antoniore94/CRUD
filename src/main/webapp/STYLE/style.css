@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+
+.oculto{
+	visibility: hidden;	
+}
+
+.visible{
+	visibility: visible;
+}
